@@ -111,22 +111,4 @@ Create a **data-driven platform for sustainable infrastructure planning in India
 
 ---
 
-## 📊 GitHub Stats
-
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
----
-
-## 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
-
----
-
-## 📌 Top Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
----
-
 ⭐ *“Building meaningful tech > just writing code”*
