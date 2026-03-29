@@ -19,7 +19,7 @@
   - Data Visualization
   - DSA (C)
 - 📈 Goal:
-  - Crack **international internships (Germany 🇩🇪 / Switzerland 🇨🇭)**
+  - Crack **international internships**
   - Build a **national-level data platform for India**
 
 ---
@@ -47,15 +47,15 @@ Create a **data-driven platform for sustainable infrastructure planning in India
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- Python 🐍
+- Python
 - C
 - JavaScript
 
 ### 📊 Data Analytics Tools
 - Excel
 - SQL
-- Pandas (Learning)
-- NumPy (Learning)
+- Pandas
+- NumPy
 
 ### 🌐 Web Development
 - HTML
@@ -72,7 +72,7 @@ Create a **data-driven platform for sustainable infrastructure planning in India
 
 - 📊 Practicing **real-world data analysis projects**
 - 🧠 Learning **backend systems & database architecture**
-- 💡 Improving **problem-solving (DSA)**
+- 💡 Improving **problem-solving**
 - ✍️ Posting **daily content on LinkedIn about Data Analytics**
 - 🌱 Building **GreenNirman into a scalable platform**
 
@@ -101,9 +101,7 @@ Create a **data-driven platform for sustainable infrastructure planning in India
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: (Add your link here)
-- 📧 Email: (Add your email)
-- 🌐 Portfolio: (Coming Soon)
+- 📧 Email: priyanshukumar9053@gmail.com
 
 ---
 
