@@ -9,18 +9,16 @@ Building software at the intersection of climate data, built environments, and u
 
 **GreenNirman** *(near complete)* — Green building compliance platform for India  
 758 districts · NASA POWER climate data · 72 materials · ECBC 2017 + GRIHA · Deployed on Netlify  
-→ [Live](your-link) · [Code](your-link)
+→ [Live](greennirman.netlify.app).
 
 **HomeMind** *(active)* — Smart home energy management system  
 FastAPI · SQLite · Real-time SSE · Behavioral analytics · Carbon credit tracking  
-→ [Code](your-link)
 
 **ReShapeIndia** *(active)* — Digital platform for construction & demolition waste  
 Building-level waste tracking · Movement logistics · Reusability matching · Circular economy data layer  
-→ [Code](your-link)
 
 **ATARS v2.0** *(shipped)* — ML pipeline for urban air quality analytics  
-→ [Code](your-link)
+→ [Code]([your-link](https://github.com/Priyanshu-ux712/ATARS))
 
 ---
 
