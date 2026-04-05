@@ -7,7 +7,7 @@ Building software at the intersection of climate data, built environments, and u
 
 ## Projects
 
-**GreenNirman** *(near complete)* — Green building compliance platform for India  
+**GreenNirman** *(completed)* — Green building compliance platform for India  
 758 districts · NASA POWER climate data · 72 materials · ECBC 2017 + GRIHA · Deployed on Netlify  
 → [greennirman.netlify.app](https://greennirman.netlify.app)
 
