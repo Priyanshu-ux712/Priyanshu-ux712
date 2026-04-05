@@ -18,7 +18,7 @@ FastAPI · SQLite · Real-time SSE · Behavioral analytics · Carbon credit trac
 Building-level waste tracking · Movement logistics · Reusability matching · Circular economy data layer  
 
 **ATARS v2.0** *(shipped)* — ML pipeline for urban air quality analytics  
-→ [Code]([your-link](https://github.com/Priyanshu-ux712/ATARS))
+→ [Code]([(https://github.com/Priyanshu-ux712/ATARS)])
 
 ---
 
