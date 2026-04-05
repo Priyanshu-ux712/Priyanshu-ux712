@@ -11,10 +11,10 @@ Building software at the intersection of climate data, built environments, and u
 758 districts · NASA POWER climate data · 72 materials · ECBC 2017 + GRIHA · Deployed on Netlify  
 → [greennirman.netlify.app](https://greennirman.netlify.app)
 
-**HomeMind** — Smart home energy management system  
+**HomeMind** *(ongoing)* — Smart home energy management system  
 FastAPI · SQLite · Real-time SSE · Behavioral analytics · Carbon credit tracking
 
-**ReShapeIndia** — Digital platform for construction & demolition waste  
+**ReShapeIndia** *(ongoing)* — Digital platform for construction & demolition waste  
 Building-level waste tracking · Movement logistics · Reusability matching · Circular economy data layer
 
 **ATARS v2.0** *(shipped)* — ML pipeline for urban air quality analytics  
