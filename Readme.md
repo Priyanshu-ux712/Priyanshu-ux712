@@ -9,25 +9,25 @@ Building software at the intersection of climate data, built environments, and u
 
 **GreenNirman** *(near complete)* — Green building compliance platform for India  
 758 districts · NASA POWER climate data · 72 materials · ECBC 2017 + GRIHA · Deployed on Netlify  
-→ [Live](greennirman.netlify.app).
+→ [greennirman.netlify.app](https://greennirman.netlify.app)
 
-**HomeMind** *(active)* — Smart home energy management system  
-FastAPI · SQLite · Real-time SSE · Behavioral analytics · Carbon credit tracking  
+**HomeMind** — Smart home energy management system  
+FastAPI · SQLite · Real-time SSE · Behavioral analytics · Carbon credit tracking
 
-**ReShapeIndia** *(active)* — Digital platform for construction & demolition waste  
-Building-level waste tracking · Movement logistics · Reusability matching · Circular economy data layer  
+**ReShapeIndia** — Digital platform for construction & demolition waste  
+Building-level waste tracking · Movement logistics · Reusability matching · Circular economy data layer
 
 **ATARS v2.0** *(shipped)* — ML pipeline for urban air quality analytics  
-→ [Code]([(https://github.com/Priyanshu-ux712/ATARS)])
+→ [Code on github](https://github.com/Priyanshu-ux712/ATARS)
 
 ---
 
 ## Research
 
 Published preprints on Zenodo:
-- Urban air quality modelling
-- Transport–pollution correlation analysis
-- World weather data repository
+- [ATARS v2.0 — Automated Time-Series Analysis and Reporting System](https://zenodo.org/records/18866062)
+- [Traffic Growth, Air Pollution & Urban Policy: A Data-Driven Framework from an Indian Megacity](https://zenodo.org/records/18879723)
+- [World Weather Repository](https://zenodo.org/records/17444480)
 
 ---
 
