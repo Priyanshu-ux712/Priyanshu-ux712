@@ -1,114 +1,48 @@
-# 👋 Hi, I'm Priyanshu Kumar
+# Priyanshu Kumar
+B.Tech CSE '28 · Gurugram University · Haryana, India
 
-🎓 B.Tech CSE Student | 📊 Aspiring Data Analyst | 🌱 Sustainability Tech Builder  
-💡 Building impactful solutions at the intersection of **Data, Environment & Technology**
-
----
-
-## 🚀 About Me
-
-- 🎯 Currently focused on becoming a **Data Analyst + Problem Solver**
-- 🌍 Working on a real-world startup idea: **GreenNirman**
-- 📊 Passionate about:
-  - Data Analytics
-  - Sustainability & Climate Tech
-  - Real-world problem solving using data
-- 🧠 Learning:
-  - Python for Data Analysis
-  - SQL & Databases
-  - Data Visualization
-  - DSA (C)
-- 📈 Goal:
-  - Crack **international internships**
-  - Build a **national-level data platform for India**
+Building software at the intersection of climate data, built environments, and urban systems.
 
 ---
 
-## 🌿 Featured Project: GreenNirman
+## Projects
 
-> 🏗️ India's District-Level Green Building Assessment Platform
+**GreenNirman** *(near complete)* — Green building compliance platform for India  
+758 districts · NASA POWER climate data · 72 materials · ECBC 2017 + GRIHA · Deployed on Netlify  
+→ [Live](your-link) · [Code](your-link)
 
-### 🔍 What it does:
-- Evaluates buildings based on sustainability metrics
-- Provides environmental impact scores
-- Helps in decision-making for eco-friendly construction
+**HomeMind** *(active)* — Smart home energy management system  
+FastAPI · SQLite · Real-time SSE · Behavioral analytics · Carbon credit tracking  
+→ [Code](your-link)
 
-### ⚙️ Tech Stack:
-- Frontend: React.js
-- Backend: (Planned)
-- Data: Environmental datasets
-- Hosting: Netlify
+**ReShapeIndia** *(active)* — Digital platform for construction & demolition waste  
+Building-level waste tracking · Movement logistics · Reusability matching · Circular economy data layer  
+→ [Code](your-link)
 
-### 🎯 Vision:
-Create a **data-driven platform for sustainable infrastructure planning in India**
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- Python
-- C
-- JavaScript
-
-### 📊 Data Analytics Tools
-- Excel
-- SQL
-- Pandas
-- NumPy
-
-### 🌐 Web Development
-- HTML
-- CSS
-- React.js
-
-### 🗄️ Databases
-- MySQL
-- SQLite
+**ATARS v2.0** *(shipped)* — ML pipeline for urban air quality analytics  
+→ [Code](your-link)
 
 ---
 
-## 📈 What I'm Currently Doing
+## Research
 
-- 📊 Practicing **real-world data analysis projects**
-- 🧠 Learning **backend systems & database architecture**
-- 💡 Improving **problem-solving**
-- ✍️ Posting **daily content on LinkedIn about Data Analytics**
-- 🌱 Building **GreenNirman into a scalable platform**
-
----
-
-## 📚 Learning Roadmap
-
-- ✔️ Data Cleaning & Analysis
-- ✔️ SQL Queries & Joins
-- 🔄 Data Visualization (Power BI / Matplotlib)
-- 🔄 Statistics for Data Analysis
-- 🔜 Machine Learning Basics
-- 🔜 Big Data Concepts
+Published preprints on Zenodo:
+- Urban air quality modelling
+- Transport–pollution correlation analysis
+- World weather data repository
 
 ---
 
-## 📌 Future Goals
+## Stack
 
-- 🚀 Launch GreenNirman MVP
-- 📊 Work on real datasets (India-level data)
-- 🌍 Collaborate with researchers & experts
-- 🏆 Get into a fully funded international internship
-- 💡 Start my own data-driven startup
+Python · FastAPI · React · SQL · Pandas · C  
+NASA POWER API · Scikit-learn · Netlify
 
 ---
 
-## 🤝 Let's Connect
+## Currently
 
-- 📧 Email: priyanshukumar9053@gmail.com
+Targeting research internships in sustainability tech, climate-adaptive built environments,  
+and environmental data systems — open to labs, institutes, and industry collaborations globally.
 
----
-
-## ⚡ Fun Fact
-
-> I don’t just learn concepts — I try to **build real systems from them**.
-
----
-
-⭐ *“Building meaningful tech > just writing code”*
+priyanshukumar9053@gmail.com
