@@ -21,7 +21,7 @@
 > Building software at the intersection of **climate data, built environments, and urban systems** — taking raw sensor data all the way to deployed, decision-ready tools.
 
 - 🔭 Currently building **HomeMind** & **ReShapeIndia**
-- 🛰️ Shipped **GreenNirman** (live) and **ATARS** (final v3.1 release)
+- 🛰️ Shipped **GreenNirman** (live), the **ATARS App** (live), and the **ATARS pipeline** (final v3.1)
 - 📚 Author of **3 open-access research preprints** on Zenodo
 - 🌱 Targeting **research internships** in sustainability tech, climate-adaptive built environments & environmental data systems — open to labs, institutes & industry globally
 - 📫 Reach me at **priyanshukumar9053@gmail.com**
@@ -98,12 +98,14 @@ Open-access preprints on **Zenodo**:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![NASA POWER](https://img.shields.io/badge/NASA_POWER_API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
@@ -113,10 +115,17 @@ Open-access preprints on **Zenodo**:
 
 <div align="center">
 
-![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-ux712&show_icons=true&hide_border=true&title_color=22C55E&icon_color=22C55E&text_color=A0AEC0&bg_color=0D1117&count_private=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-ux712&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu-ux712&theme=github_dark)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-ux712&theme=github_dark&utcOffset=5.5)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu-ux712&theme=github_dark)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu-ux712&theme=github_dark)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-ux712&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=A0AEC0&dates=718096&stroke=22C55E)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-ux712&layout=compact&hide_border=true&title_color=22C55E&text_color=A0AEC0&bg_color=0D1117&langs_count=8)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-ux712&theme=github-compact&hide_border=true&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF)
 
 </div>
 
