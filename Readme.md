@@ -10,8 +10,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanshu-kumar-846b39320/)
 [![GreenNirman — Live](https://img.shields.io/badge/Live-GreenNirman-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://greennirman.netlify.app)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Priyanshu-ux712&color=22c55e&style=flat-square&label=Profile+Views)
-
 </div>
 
 ---
@@ -108,26 +106,6 @@ Open-access preprints on **Zenodo**:
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
 ![NASA POWER](https://img.shields.io/badge/NASA_POWER_API-0B3D91?style=for-the-badge&logo=nasa&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-ux712&theme=github_dark)
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu-ux712&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Priyanshu-ux712&theme=github_dark&utcOffset=5.5)
-
-![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu-ux712&theme=github_dark)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu-ux712&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshu-ux712&hide_border=true&background=0D1117&ring=22C55E&fire=22C55E&currStreakLabel=22C55E&sideLabels=A0AEC0&dates=718096&stroke=22C55E)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-ux712&theme=github-compact&hide_border=true&bg_color=0D1117&color=22C55E&line=22C55E&point=FFFFFF)
-
-</div>
 
 ---
 
