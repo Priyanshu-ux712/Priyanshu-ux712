@@ -90,7 +90,7 @@ ATARS is a desktop analytics studio that cleans, charts, models, forecasts, and 
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+![Licence](https://img.shields.io/badge/licence-proprietary,_free-22C55E?style=flat-square)
 [![PyPI](https://img.shields.io/pypi/v/atars?style=flat-square&logo=pypi&logoColor=white&label=pip%20install%20atars&color=3775A9)](https://pypi.org/project/atars/)
 
 #### The terminal edition
@@ -103,7 +103,7 @@ The same analysis engine on the command line — one-shot commands, an interacti
 
 > It is **deliberately smaller than the app**: no AI analyst, no Advanced Statistics, 17 chart types instead of 19, and no Word / PowerPoint / notebook exports. It exists for servers, SSH sessions and scripted work — and it is currently the only way to run ATARS on macOS and Linux.
 
-**[→ Open ATARS](https://atars.netlify.app)** &nbsp;·&nbsp; [→ Download for Windows](https://github.com/Priyanshu-ux712/ATARS_WEBSITE_APP_DOWNLOAD/releases/latest) &nbsp;·&nbsp; [→ Microsoft Store](https://apps.microsoft.com/detail/9NFRBPL4T2M8) &nbsp;·&nbsp; [→ atars on PyPI](https://pypi.org/project/atars/) &nbsp;·&nbsp; [→ Terminal guide](https://atars.netlify.app/terminal.html) &nbsp;·&nbsp; [→ Source](https://github.com/Priyanshu-ux712/ATARS)
+**[→ Open ATARS](https://atars.netlify.app)** &nbsp;·&nbsp; [→ Download for Windows](https://github.com/Priyanshu-ux712/ATARS_WEBSITE_APP_DOWNLOAD/releases/latest) &nbsp;·&nbsp; [→ Microsoft Store](https://apps.microsoft.com/detail/9NFRBPL4T2M8) &nbsp;·&nbsp; [→ atars on PyPI](https://pypi.org/project/atars/) &nbsp;·&nbsp; [→ Terminal guide](https://pypi.org/project/atars/#description) &nbsp;·&nbsp; [→ Source](https://github.com/Priyanshu-ux712/ATARS)
 
 <br>
 
@@ -225,7 +225,7 @@ Four open-access preprints on **Zenodo**:
 | **Data Analytics Job Simulation** | Quantium · Forage | Segmentation, uplift testing, reporting | [`verify`](https://www.theforage.com/completion-certificates/32A6DqtsbF7LbKdcq/NkaC7knWtjSbi6aYv_32A6DqtsbF7LbKdcq_69f9a04248dd071e57ff9f88_1780839311052_completion_certificate.pdf) |
 | **Data Science Job Simulation** | British Airways · Forage | Feature engineering, predictive modelling | [`verify`](https://www.theforage.com/completion-certificates/tMjbs76F526fF5v3G/NjynCWzGSaWXQCxSX_tMjbs76F526fF5v3G_69f9a04248dd071e57ff9f88_1781026022901_completion_certificate.pdf) |
 | **Build & Deploy Apps with Google AI Studio** | GUVI (2024) | Multilingual AI speech application | [`verify`](http://www.guvi.in/verify-certificate?id=572aU18774pe6749Rz) |
-| **Career Edge — Young Professional** | TCS iON (2026) | Professional communication & business skills | — |
+| **Career Edge — Young Professional** | TCS iON (2026) | Professional communication & business skills | [LinkedIn](https://www.linkedin.com/in/priyanshu-kumar-846b39320/details/certifications/) |
 
 </details>
 
