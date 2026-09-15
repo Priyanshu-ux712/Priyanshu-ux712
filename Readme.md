@@ -14,7 +14,7 @@
 <br>
 
 ![Products live](https://img.shields.io/badge/products_live-4-22C55E?style=flat-square&labelColor=1B1F23)
-![Preprints](https://img.shields.io/badge/open--access_preprints-3-1682D4?style=flat-square&labelColor=1B1F23)
+![Preprints](https://img.shields.io/badge/open--access_preprints-4-1682D4?style=flat-square&labelColor=1B1F23)
 ![Districts](https://img.shields.io/badge/districts_modelled-758-00C7B7?style=flat-square&labelColor=1B1F23)
 ![Verification](https://img.shields.io/badge/narrative_verification-92.9%25-7C5CFF?style=flat-square&labelColor=1B1F23)
 ![Telemetry](https://img.shields.io/badge/telemetry-zero-34D27F?style=flat-square&labelColor=1B1F23)
@@ -41,7 +41,7 @@ Two commitments run through everything below:
 | | Project | What it does | Status | Stack |
 |:--|:--|:--|:--|:--|
 | `GN-01` | **[Green Nirman](https://greennirman.netlify.app)** | Green-building assessment for every climate zone in India | 🟢 `live` | React · NASA POWER |
-| `ATARS-V5` | **[ATARS](https://atars.netlify.app)** | Spreadsheet in, research-grade analysis and report out | 🟢 `v5.1` | Python · Streamlit · DuckDB |
+| `ATARS-V5` | **[ATARS](https://atars.netlify.app)** | Spreadsheet in, research-grade analysis and report out | 🟢 `v5.4.6` | Python · DuckDB · PyPI |
 | `TS-1.1.0` | **[TerraSight](https://github.com/Priyanshu-ux712/Terrasight)** | Ask your documents anything — entirely on your device | 🟢 `v1.1.0` | Python · DuckDB · embeddings |
 | `IGN-01` | **[IGNIS](https://ignis-in.netlify.app)** | Simulate a new fuel or engine against real thermodynamics | 🟢 `v1.0` | Python · Cantera · FastAPI |
 
@@ -69,7 +69,7 @@ Green Nirman moves that assessment to the **start** of the process. Describe a b
 
 <br>
 
-### 📊 &nbsp;ATARS &nbsp;·&nbsp; `ATARS-V5` &nbsp;·&nbsp; information integrity
+### 📊 &nbsp;ATARS &nbsp;·&nbsp; `v5.4.6` &nbsp;·&nbsp; information integrity
 
 > **Drop in a spreadsheet — get instant analysis, charts, ML, and a research-grade report.**
 
@@ -79,10 +79,11 @@ ATARS is a desktop analytics studio that cleans, charts, models, forecasts, and 
 
 - **Data quality** — an 18-step cleaning and profiling engine
 - **Modelling** — AutoML with explainable AI · Isolation-Forest anomaly detection · Holt–Winters forecasting
-- **Exploration** — in-process SQL over DuckDB · 14+ chart types
+- **Exploration** — in-process SQL over DuckDB · 19 chart types
 - **Verification** — a nine-module suite that grounds every AI-written sentence against computed values (**92.9%** grounding rate)
 - **Export** — PowerPoint · Word · Excel · CSV · JSON
 - **AI layer** — optional, bring-your-own-key
+- **Three editions, one engine** — a Windows installer, a Microsoft Store package signed by Microsoft, and `pip install atars`, a free terminal edition for Windows, macOS and Linux
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
@@ -90,8 +91,19 @@ ATARS is a desktop analytics studio that cleans, charts, models, forecasts, and 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![MIT](https://img.shields.io/badge/License-MIT-22C55E?style=flat-square)
+[![PyPI](https://img.shields.io/pypi/v/atars?style=flat-square&logo=pypi&logoColor=white&label=pip%20install%20atars&color=3775A9)](https://pypi.org/project/atars/)
 
-**[→ Open ATARS](https://atars.netlify.app)** &nbsp;·&nbsp; [→ Download for Windows](https://github.com/Priyanshu-ux712/ATARS_WEBSITE_APP_DOWNLOAD/releases/latest) &nbsp;·&nbsp; [→ Source](https://github.com/Priyanshu-ux712/ATARS)
+#### The terminal edition
+
+```bash
+pip install atars
+```
+
+The same analysis engine on the command line — one-shot commands, an interactive shell, or a full-screen terminal window with 19 tabs and 17 charts. Windows, macOS and Linux, Python 3.11+.
+
+> It is **deliberately smaller than the app**: no AI analyst, no Advanced Statistics, 17 chart types instead of 19, and no Word / PowerPoint / notebook exports. It exists for servers, SSH sessions and scripted work — and it is currently the only way to run ATARS on macOS and Linux.
+
+**[→ Open ATARS](https://atars.netlify.app)** &nbsp;·&nbsp; [→ Download for Windows](https://github.com/Priyanshu-ux712/ATARS_WEBSITE_APP_DOWNLOAD/releases/latest) &nbsp;·&nbsp; [→ Microsoft Store](https://apps.microsoft.com/detail/9NFRBPL4T2M8) &nbsp;·&nbsp; [→ atars on PyPI](https://pypi.org/project/atars/) &nbsp;·&nbsp; [→ Terminal guide](https://atars.netlify.app/terminal.html) &nbsp;·&nbsp; [→ Source](https://github.com/Priyanshu-ux712/ATARS)
 
 <br>
 
@@ -156,10 +168,11 @@ Exploratory analyses, dashboards, and modelling exercises kept as a public recor
 
 ## ◆ Research
 
-Three open-access preprints on **Zenodo**:
+Four open-access preprints on **Zenodo**:
 
 | Preprint | Subject |
 |:--|:--|
+| [**ATARS v3.1** — Statistical framework, 18-step data-quality engine and a nine-module verification suite](https://zenodo.org/records/21072820) | Trustworthy LLM reporting of urban air quality |
 | [**ATARS v2.0** — Automated Time-Series Analysis and Reporting System](https://zenodo.org/records/18866062) | Verified, automated analytical reporting |
 | [**Traffic Growth, Air Pollution & Urban Policy**](https://zenodo.org/records/18879723) | A data-driven framework from an Indian megacity |
 | [**World Weather Repository**](https://zenodo.org/records/17444480) | Global weather data curation |
