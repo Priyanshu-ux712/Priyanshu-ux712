@@ -103,7 +103,7 @@ The same analysis engine on the command line — one-shot commands, an interacti
 
 > It is **deliberately smaller than the app**: no AI analyst, no Advanced Statistics, 17 chart types instead of 19, and no Word / PowerPoint / notebook exports. It exists for servers, SSH sessions and scripted work — and it is currently the only way to run ATARS on macOS and Linux.
 
-**[→ Open ATARS](https://atars.netlify.app)** &nbsp;·&nbsp; [→ Download for Windows](https://github.com/Priyanshu-ux712/ATARS_WEBSITE_APP_DOWNLOAD/releases/latest) &nbsp;·&nbsp; [→ Microsoft Store](https://apps.microsoft.com/detail/9NFRBPL4T2M8) &nbsp;·&nbsp; [→ atars on PyPI](https://pypi.org/project/atars/) &nbsp;·&nbsp; [→ Terminal guide](https://pypi.org/project/atars/#description) &nbsp;·&nbsp; [→ Source](https://github.com/Priyanshu-ux712/ATARS)
+**[→ Open ATARS](https://atars.netlify.app)** &nbsp;·&nbsp; [→ Download for Windows](https://github.com/Priyanshu-ux712/ATARS_WEBSITE_APP_DOWNLOAD/releases/latest) &nbsp;·&nbsp; [→ Microsoft Store](https://apps.microsoft.com/detail/9NFRBPL4T2M8) &nbsp;·&nbsp; [→ atars on PyPI](https://pypi.org/project/atars/) &nbsp;·&nbsp; [→ Terminal guide](https://pypi.org/project/atars/#description) 
 
 <br>
 
@@ -230,37 +230,3 @@ Four open-access preprints on **Zenodo**:
 </details>
 
 ---
-
-## ◆ GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-ux712&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-ux712&theme=default" alt="Priyanshu Kumar — GitHub profile summary and contribution graph" width="820">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu-ux712&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshu-ux712&theme=default" alt="GitHub contribution statistics" width="400">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu-ux712&theme=github_dark">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu-ux712&theme=default" alt="Languages by repository" width="400">
-</picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 🌱 &nbsp;Open to research internships and collaborations, globally.
-
-Sustainability tech · climate-adaptive built environments · environmental data systems
-
-[![Email](https://img.shields.io/badge/priyanshukumar9053@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshukumar9053@gmail.com)
-
-*Let's build something that matters.* 🌍
-
-</div>
